@@ -17,7 +17,7 @@
 
 ### 📬 Let's Connect
 - [LinkedIn](www.linkedin.com/in/yashwinib)
-- [Twitter](https://x.com/whybe24))
-- Email: yashwini245@gmail.com
+- [Twitter](https://x.com/whybe24)
+- [Email](yashwini245@gmail.com)
 
 ---
