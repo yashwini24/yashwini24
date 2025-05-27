@@ -1,6 +1,6 @@
-## Hi there! I'm Yashwini 👋
+# Hi there! I'm Yashwini 👋
 
-# About me
+## About me
 
 ✨ I'm new to coding - I'm building tools to simplify my everyday work  
 🧠 Exploring automation, productivity, and data  
