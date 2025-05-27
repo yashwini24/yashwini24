@@ -18,6 +18,6 @@
 ###   📬 Let's Connect
 - [LinkedIn](www.linkedin.com/in/yashwinib)
 - [Twitter](https://x.com/whybe24)
-- [Email](yashwini245@gmail.com)
+- [Email](mailto:yashwini245@gmail.com)
 
 ---
