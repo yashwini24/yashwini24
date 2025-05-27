@@ -1,6 +1,6 @@
 # Hi there! I'm Yashwini 👋
 
-## About me
+### About me
 
 ✨ I'm new to coding - I'm building tools to simplify my everyday work  
 🧠 Exploring automation, productivity, and data  
@@ -15,7 +15,7 @@
 
 ---
 
-### 📬 Let's Connect
+###   📬 Let's Connect
 - [LinkedIn](www.linkedin.com/in/yashwinib)
 - [Twitter](https://x.com/whybe24)
 - [Email](yashwini245@gmail.com)
