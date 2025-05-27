@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**yashwini24/yashwini24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Yashwini Bansal
 
-Here are some ideas to get you started:
+✨ Building tools to simplify everyday work  
+🧠 Exploring automation, productivity, and data  
+💡 Passionate about using code to solve real-world inefficiencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Goals for 2025
+- Launch 10+ mini automations to simplify daily life
+- Make my GitHub a living portfolio of useful tools
+- Collaborate with founders & teams building thoughtful software
+
+---
+
+### 📬 Let's Connect
+- [LinkedIn](www.linkedin.com/in/yashwinib)
+- [Twitter](https://x.com/whybe24))
+- Email: yashwini245@gmail.com
+
+---
