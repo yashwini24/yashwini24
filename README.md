@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there! I'm Yashwini 👋
 
-# 👋 Hi, I’m Yashwini Bansal
+# About me
 
-✨ Building tools to simplify everyday work  
+✨ I'm new to coding - I'm building tools to simplify my everyday work  
 🧠 Exploring automation, productivity, and data  
 💡 Passionate about using code to solve real-world inefficiencies
 
